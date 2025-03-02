@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("This is hello world output")
+	fmt.Println("This is hello world output.")
 
+	hw1f()
 }
